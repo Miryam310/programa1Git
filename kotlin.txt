@@ -1,0 +1,3 @@
+este es mi primer mensaje en git,
+voy haacer un cambi enb este archivo,
+
